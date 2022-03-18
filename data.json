@@ -1,0 +1,98 @@
+{
+    "books": [
+        {
+            "author": "Chinua Achebe",
+            "pages": 209,
+            "title": "Things Fall Apart",
+            "year": 1958,
+            "uid": "1",
+            "credits": 3
+        },
+        {
+            "author": "Hans Christian Andersen",
+            "pages": 784,
+            "title": "Fairy tales",
+            "year": 1836,
+            "uid": "2",
+            "credits": 1
+        },
+        {
+            "author": "Dante Alighieri",
+            "pages": 928,
+            "title": "The Divine Comedy",
+            "year": 1315,
+            "uid": "3",
+            "credits": 4
+        },
+        {
+            "author": "Jane Austen",
+            "pages": 226,
+            "title": "Pride and Prejudice",
+            "year": 1813,
+            "uid": "4",
+            "credits": 6
+        },
+        {
+            "author": "Honor de Balzac",
+            "pages": 443,
+            "title": "Le Pere Goriot",
+            "year": 1835,
+            "uid": "5",
+            "credits": 5
+        },
+        {
+            "author": "Samuel Beckett",
+            "pages": 256,
+            "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+            "year": 1952,
+            "uid": "6",
+            "credits": 4
+        },
+        {
+            "author": "Giovanni Boccaccio",
+            "pages": 1024,
+            "title": "The Decameron",
+            "year": 1351,
+            "uid": "7",
+            "credits": 5
+        }
+    ],
+    "users": [
+        {
+            "name": "ishita bharadwaj",
+            "credits": 50,
+            "borrows": [],
+            "srn": "648"
+        },
+        {
+            "name": "haneyah seemein",
+            "credits": 50,
+            "borrows": [],
+            "srn": "643"
+        },
+        {
+            "name": "meghana nekar",
+            "credits": 50,
+            "borrows": [],
+            "srn": "663"
+        },
+        {
+            "name": "hita juneja",
+            "credits": 50,
+            "borrows": [],
+            "srn": "645"
+        },
+        {
+            "name": "abc",
+            "credits": 49,
+            "borrows": [],
+            "srn": "123"
+        },
+        {
+            "name": "xyz",
+            "credits": 50,
+            "borrows": [],
+            "srn": "567"
+        }
+    ]
+}
