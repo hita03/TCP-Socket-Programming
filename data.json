@@ -84,8 +84,12 @@
         },
         {
             "name": "abc",
-            "credits": 49,
-            "borrows": [],
+            "credits": 50,
+            "borrows": [
+                "5",
+                "2",
+                "3"
+            ],
             "srn": "123"
         },
         {
