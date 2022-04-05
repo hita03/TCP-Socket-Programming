@@ -55,55 +55,8 @@
             "year": 1351,
             "uid": "7",
             "credits": 5
-        },
-        {
-            "author": "JK Rowling",
-            "pages": 672,
-            "title": "Harry Potter And The Prisoner of Azkaban",
-            "year": 1998,
-            "uid": "8",
-            "credits": 7
-        },
-        {
-            "author": "Charlotte Bronte",
-            "pages": 532,
-            "title": "Jane Eyre",
-            "year": 1847,
-            "uid": "9",
-            "credits": 5
-        },
-        {
-            "author": "Alice Sebold",
-            "pages": 372,
-            "title": "The Lovely Bones",
-            "year": 2006,
-            "uid": "10",
-            "credits": 5
-        },
-        {
-            "author": "Paula Hawkins ",
-            "pages": 315,
-            "title": "The Girl on the Train",
-            "year": 2015,
-            "uid": "11",
-            "credits": 6
-        },
-        {
-            "author": "John Green",
-            "pages": 313,
-            "title": "The Fault in Our Stars",
-            "year": 2012,
-            "uid": "12",
-            "credits": 4
-        },
-        {
-            "author": "Stephenie Meyer",
-            "pages": 498,
-            "title": "Twilight",
-            "year": 2006,
-            "uid": "13",
-            "credits": 5
         }
+
     ],
     "users": [
         {
